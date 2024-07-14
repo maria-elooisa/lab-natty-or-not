@@ -26,7 +26,6 @@ Criar conteúdo 'natty' (natural) com inteligência artificial apresenta desafio
 
 Superar esses desafios requer avanços contínuos em modelos de IA e uma abordagem cuidadosa e ética no desenvolvimento e aplicação da tecnologia para criar experiências 'natty' que sejam verdadeiramente autênticas e significativas para os usuários.
 
-
 ## ✍ Desafio fornecido por:
 [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
