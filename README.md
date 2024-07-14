@@ -31,7 +31,7 @@ Superar esses desafios requer avanços contínuos em modelos de IA e uma abordag
 
 ### Exemplos e Insigths
 
-- [Podcast](/arquivos/William_Bonner's_Voice.mp3)
+- [Chamada do Jornal](/Arquivos/Chamada%20do%20Jornal.md)
 
 ## Links Interessantes
 

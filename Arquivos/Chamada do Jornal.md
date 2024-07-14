@@ -13,7 +13,7 @@ O foco é a apresentação de uma breve e informativa explicação sobre computa
 ## 🚀 Resultados
 Este audio destaca como a IA pode transformar o jornalismo, tornando a disseminação de informações complexas mais acessível e eficiente para o público em geral.
 
-[Explorando a Beleza da Computação Quântica](/media/PODCAST.md)
+[Explorando a Beleza da Computação Quântica](/Arquivos/Media/William%20Bonner's%20Voice.mp3)
 
 ## 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
