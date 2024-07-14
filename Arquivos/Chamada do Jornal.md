@@ -1,4 +1,4 @@
-# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
+# Chamada: Explorando a Beleza da Computação Quântica 🎙️
 
 ## 📒 Descrição
 O foco é a apresentação de uma breve e informativa explicação sobre computação quântica, gerada a partir da análise da voz de um jornalista.
