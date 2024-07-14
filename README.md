@@ -5,7 +5,7 @@ Este projeto visa demonstrar a capacidade avançada de uma Inteligência Artific
 
 ## Tecnologias Utilizadas 🤖
 - [Chat GPT](https://chatgpt.com): para a criação de textos e do roteiro da fala.
-- [vidnoz](https://aiapp-pt.vidnoz.com/): para a criação do áudio.
+- [Vidnoz](https://aiapp-pt.vidnoz.com/): para a criação do áudio.
 
 ## Processo de Criação 🧐
 Este projeto combina o uso avançado do ChatGPT para a escrita de conteúdo narrativo e informativo sobre temas específicos, como a computação quântica. Utilizando a IA da Vidnoz, o texto gerado é transformado em áudio, com a opção de selecionar a voz reconhecível de William Bonner para a narração. Essa abordagem não apenas permite a criação eficiente de conteúdo audiovisual de alta qualidade, mas também demonstra o potencial da inteligência artificial na produção de mídia personalizada e impactante.
@@ -16,7 +16,7 @@ Este projeto combina o uso avançado do ChatGPT para a escrita de conteúdo narr
 - **Geração de Texto:** Com base na análise da voz, a IA gera um texto informativo e coeso sobre computação quântica, estruturando a fala de forma clara e envolvente.
 - **Conversão em Fala:** Utilizando tecnologia de síntese de voz, a IA converte o texto gerado em uma fala natural, mantendo as características da voz original do apresentador.
 
-## Reflexão 💭 (Opcional)
+## Reflexão 💭
 Criar conteúdo 'natty' (natural) com inteligência artificial apresenta desafios significativos e relevantes. A IA é capaz de gerar textos, imagens e até mesmo voz que são linguisticamente corretos e visualmente atraentes. No entanto, capturar a autenticidade e a espontaneidade do comportamento humano é um desafio complexo.
 
 - **Autenticidade vs. Simulação:** Replicar a complexidade emocional e a originalidade humana é um objetivo desafiador para os sistemas de IA.
@@ -31,9 +31,7 @@ Superar esses desafios requer avanços contínuos em modelos de IA e uma abordag
 
 ### Exemplos e Insigths
 
-- [Imagem](/arquivos/E-BOOK.md)
-- [Podcast](/arquivos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/arquivos/VIDEO.md)
+- [Podcast](/arquivos/William_Bonner's_Voice.mp3)
 
 ## Links Interessantes
 
